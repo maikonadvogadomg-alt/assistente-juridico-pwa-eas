@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "assistente-juridico-pwa",
+    "slug": "assistente-juridico-pwa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#0f172a",
+    "android": {
+      "package": "com.github.assistentejuridicopwa",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "plugins": [
+      "./plugins/withCopyWww"
+    ],
+    "extra": {}
+  }
+}
